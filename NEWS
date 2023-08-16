@@ -1,0 +1,3 @@
+MRZero v0.1.0
+=============
+First release. This version matches 98% of the functionality of the MendelianRandomization package version 0.9.0, but at around 10% of the filesize, and without C++ components.
